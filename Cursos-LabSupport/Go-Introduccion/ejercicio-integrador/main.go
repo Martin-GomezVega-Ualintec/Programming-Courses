@@ -2,6 +2,8 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/Martin-GomezVega-Ualintec/Programming-Courses/tree/main/Cursos-LabSupport/Go-Introduccion/ejercicio-integrador/models"
 )
 
 // Desarrollar un programa que recorra un conjunto de Puntos(x e y), por cada elemento debe verificar
@@ -16,9 +18,9 @@ import (
 func main() {
 	//puntos := []int{1, 2, 3, 1, 2, 4, 5}
 
-	puntos := Puntos{
-		x: 2,
-		y: 1,
+	puntos := models.Puntos{
+		X: 2,
+		Y: 1,
 	}
 
 	for _, j := range puntos {
