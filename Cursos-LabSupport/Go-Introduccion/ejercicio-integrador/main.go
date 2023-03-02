@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Martin-GomezVega-Ualintec/Programming-Courses/tree/main/Cursos-LabSupport/Go-Introduccion/ejercicio-integrador/models"
+	"github.com/Martin-GomezVega-Ualintec/Programming-Courses/Cursos-LabSupport/Go-Introduccion/ejercicio-integrador/models"
 )
 
 // Desarrollar un programa que recorra un conjunto de Puntos(x e y), por cada elemento debe verificar
